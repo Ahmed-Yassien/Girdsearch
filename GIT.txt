@@ -26,5 +26,7 @@ $ git stash -a    يلغي كل اللي في الstatus :'(
 $ git branch  
 $ git checkout -b nbranch  
 $ git checkout main  
-git diff
-git merge
+git diff   
+git merge   
+$ git branch -d branch_name   
+$ git push <remote_name> --delete <branch_name>   
